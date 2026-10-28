@@ -28,6 +28,7 @@ for(const page of pages){
   const file=path.join(dist,page),html=fs.readFileSync(file,'utf8');
   assert.equal((html.match(/<h1[ >]/g)||[]).length,1,`One page heading: ${page}`);
   assert(html.includes('name="viewport"'),`Responsive viewport: ${page}`);
+  assert.equal((html.match(/(?:href|src)="[^"]*(?:theme|styles|revision|app)\.[a-f0-9]{12}\.(?:css|js)"/g)||[]).length,4,`Versioned assets prevent stale layout: ${page}`);
   assert(html.includes('<meta name="robots" content="noindex, nofollow, noimageindex">'),`Search exclusion: ${page}`);
   const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size,`Duplicate HTML IDs: ${page}`);
   for(const match of html.matchAll(/\b(?:href|src)="([^"]+)"/g)){
