@@ -6,7 +6,7 @@ collection: selected
 category: Mechanism Design & Computational Optimization
 summary: Designed and prototyped a gear-based continuously variable transmission, using computational optimization to refine the mechanism.
 cover: images/beltless-gear-cvt-design-overview-p5-13.webp
-home_images: images/beltless-gear-cvt-portfolio-overview-1-p2-06.webp, images/beltless-gear-cvt-portfolio-overview-2-p2-07.webp, images/physical-concept-prototype-figure-1-p5-08.webp
+home_images: images/beltless-gear-cvt-portfolio-overview-1-p2-06.webp, images/physical-concept-prototype-figure-1-p5-08.webp
 role: Self-funded personal project
 tags: Transmissions, Kinematic modeling, Prototyping
 subtitle: 
