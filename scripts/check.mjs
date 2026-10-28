@@ -75,8 +75,9 @@ if(fs.existsSync(imported)){
     const hash=crypto.createHash('sha256').update(fs.readFileSync(path.join(imported,'public/assets',id+'.webp'))).digest('hex');assert(hashes.has(hash)||imageUpgrades.some(upgrade=>upgrade.previous_sha256===hash),`Asset needs original or verified Word upgrade: ${id}`);
   }
   for(const video of originalVideos)assert(sourceURLs.has(video.sourceUrl),`Missing original demonstration ${video.id}`);
-  assert(fs.readFileSync(path.join(root,'downloads/Avatar_Sargamantha_Ndoen_Portfolio.pdf')).equals(fs.readFileSync(path.join(imported,'public/Avatar_Sargamantha_Ndoen_Portfolio.pdf'))),'Preserve original PDF');
+  // Current downloads are verified against the approved release manifest below.
 }
+for(const pdf of JSON.parse(fs.readFileSync(path.join(root,'docs/DOWNLOADS.json'),'utf8')))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,pdf.file))).digest('hex'),pdf.sha256,'Current PDF release: '+pdf.file);
 assert.equal(youtube('https://youtu.be/M7lc1UVf-VE'),'https://www.youtube-nocookie.com/embed/M7lc1UVf-VE');
 assert.equal(youtube('https://www.youtube.com/watch?v=M7lc1UVf-VE'),'https://www.youtube-nocookie.com/embed/M7lc1UVf-VE');
 assert.equal(youtube('https://www.youtube.com/shorts/M7lc1UVf-VE'),'https://www.youtube-nocookie.com/embed/M7lc1UVf-VE');
