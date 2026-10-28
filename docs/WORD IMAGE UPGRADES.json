@@ -1,0 +1,1630 @@
+{
+  "upgrades": [
+    {
+      "image": "profile/images/portrait-p1-01.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image1.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        517,
+        652
+      ],
+      "new_size": [
+        517,
+        652
+      ],
+      "previous_sha256": "5dc23b65c81386eae4ead052a092c6a62f0c9b8d8a488a1c9f5bc3f1d2f1138e",
+      "sha256": "5d8c97f0f3d80f13f58dca0831dad0c7093b9f0c6afa28188df8e6386660dd12"
+    },
+    {
+      "image": "projects/01-wrist/images/surrogate-assisted-optimization-figure-1-p3-22.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image38.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        708,
+        614
+      ],
+      "new_size": [
+        1820,
+        1579
+      ],
+      "previous_sha256": "adeb3a98511fef7fc985afe511801dc673c6a48365ef4bebdeda318b0e2f6171",
+      "sha256": "f1b65f156e2c117da3dcfaee196b50413a899337f816e6baa5a9e732eb736c15"
+    },
+    {
+      "image": "projects/02-arm/images/system-integration-testing-figure-1-p4-18.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image47.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        268,
+        292
+      ],
+      "new_size": [
+        1206,
+        1314
+      ],
+      "previous_sha256": "a8de2d30478985ca0cb10004c447e3a9fe4a304c46588a7da00bc80fdd170f7d",
+      "sha256": "009436038f5a04d2e36ef45a669c218df1fb3bdb1b76eb79504a89fff184a572"
+    },
+    {
+      "image": "projects/03-cvt/images/python-modeling-and-optimization-figure-2-p5-03.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image50.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        232,
+        236
+      ],
+      "new_size": [
+        283,
+        288
+      ],
+      "previous_sha256": "e69fa34c7a0d982df1aa5522e2b46d85f028e9d9706c3cc9fc36c8bac40e7403",
+      "sha256": "0bd23a044263352536b6b48d2782a5a38f8110007cd515781d24237e4f5fbaeb"
+    },
+    {
+      "image": "projects/02-arm/images/an-interesting-design-failure-figure-1-p4-19.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image48.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        185,
+        147
+      ],
+      "new_size": [
+        185,
+        147
+      ],
+      "previous_sha256": "8e7e220727f255ae3f4e25961db50a350a75490639bcd93e3254816f866edee8",
+      "sha256": "65396cd59fa4731cc352f54ddc5754049c39d8a99bda910af26ec6b5fce75c9a"
+    },
+    {
+      "image": "projects/04-continuum/images/control-motion-testing-figure-1-p6-06.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image55.png",
+      "crop_box": [
+        0,
+        0,
+        258,
+        534
+      ],
+      "render_dpi": null,
+      "old_size": [
+        114,
+        236
+      ],
+      "new_size": [
+        258,
+        534
+      ],
+      "previous_sha256": "73626b1d5199c1006a95a5f6f0fced115661edd73a4233d39a56c198d2f18cc0",
+      "sha256": "368e471fb57a742819b2b6a24b5224d80ec050a50093139ef617d6b08421951f"
+    },
+    {
+      "image": "projects/02-arm/images/custom-bldc-cycloidal-actuators-teleoperated-robotic-p4-17.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image46.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        272,
+        229
+      ],
+      "new_size": [
+        720,
+        607
+      ],
+      "previous_sha256": "1aa1eb2943f8acb3d2a6fd91ee6bf4add956b50ff546b2245b8efd749fd43f1f",
+      "sha256": "3f6fbd0ed9e3159d381b8cd5158b20fe5e191a5b4dc5f1680f44d4cc54134fe4"
+    },
+    {
+      "image": "projects/02-arm/images/control-motion-testing-figure-1-p4-10.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image40.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        262,
+        292
+      ],
+      "new_size": [
+        1206,
+        1345
+      ],
+      "previous_sha256": "86b6a9608ff7ea854d93e3e3a2baef258381b36b8084cf621351247aadad33c7",
+      "sha256": "97a2b5427fea9dff7e6eb92fedaa2450dcae76df363d436c168802e8270e62f1"
+    },
+    {
+      "image": "projects/03-cvt/images/python-modeling-and-optimization-figure-3-p5-04.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image51.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        287,
+        157
+      ],
+      "new_size": [
+        580,
+        318
+      ],
+      "previous_sha256": "74b689ee333fb23efb2f1e4973cdf4b07c7ba0c1d6bf70a9f4297b45c0d940bf",
+      "sha256": "ac24a4a6d1c6b4ba352e69f5780f88aea7f6f6fe4cd4f8e6a49baf50d5797612"
+    },
+    {
+      "image": "projects/01-wrist/images/parametric-design-figure-3-p3-13.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image34.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        248,
+        141
+      ],
+      "new_size": [
+        532,
+        303
+      ],
+      "previous_sha256": "40de7bb6a50d40c6a3bbd5d00a1b4105affe1581cf58545f97c86d85eb175245",
+      "sha256": "fbc0241957985da0a6c0dd1a4b4f12c6e8c9fbf2a106a9b25172559580144d01"
+    },
+    {
+      "image": "projects/01-wrist/images/parametric-design-figure-1-p3-11.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image32.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        171,
+        149
+      ],
+      "new_size": [
+        744,
+        649
+      ],
+      "previous_sha256": "4ad8524f00c5bdc0655aa0e455377b5f02cc7d321928ef7046edad015ca43f53",
+      "sha256": "b5253974a0fa0189400635065ee24de767f604fd3e053413f22078363127271c"
+    },
+    {
+      "image": "projects/03-cvt/images/python-modeling-and-optimization-figure-1-p5-02.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image49.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        283,
+        236
+      ],
+      "new_size": [
+        598,
+        499
+      ],
+      "previous_sha256": "44426dd5da4ef57c0ebd43c4f2666fc89914138fc920f5b95e6bc11e35f3d40a",
+      "sha256": "47b72f2ef0b3bb38dd9a63b02580131b8652f95eda06f8c58c98e971705b645a"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-4-p2-24.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image24.png",
+      "crop_box": [
+        219,
+        0,
+        652,
+        174
+      ],
+      "render_dpi": null,
+      "old_size": [
+        294,
+        118
+      ],
+      "new_size": [
+        433,
+        174
+      ],
+      "previous_sha256": "bbe31844c07e5ce338bacc6dcf218a8c5c32de94a2f53f92d9867315c92ebe8b",
+      "sha256": "e56f09986d2992152f49dcbef73236ce63d8f638598375ab713a7d66a9b2e49f"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-3-p2-37.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image11.png",
+      "crop_box": [
+        0,
+        20,
+        609,
+        467
+      ],
+      "render_dpi": null,
+      "old_size": [
+        161,
+        118
+      ],
+      "new_size": [
+        609,
+        447
+      ],
+      "previous_sha256": "454f8ee86adb3f6d412a0b4db291be11919e2d659feba710751d8bc92a9aa4e0",
+      "sha256": "6db1d395c9be427c1e07af52a7612c2a344242519fdc1319f041a431bf9cd6aa"
+    },
+    {
+      "image": "projects/02-arm/images/master-mechanism-figure-1-p4-13.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image44.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        272,
+        216
+      ],
+      "new_size": [
+        816,
+        649
+      ],
+      "previous_sha256": "4f9ed24f4a3b2e952426ec6e6aeba63d035ad1fdf32b3865d79440439c522a8f",
+      "sha256": "03bfbd674df515d58d8fe278cf464a3961c07f80632d3cd5fb38c9d9e8fe04b8"
+    },
+    {
+      "image": "projects/01-wrist/images/mechanism-development-figure-1-p3-03.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image28.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        259,
+        137
+      ],
+      "new_size": [
+        801,
+        424
+      ],
+      "previous_sha256": "71e749e590cca667f0185bd500b25cb1636f7cffd63607a9be1b74e09ea79db8",
+      "sha256": "2ea2e693dace44a056c6153ece55b4d3bad1cabc112b262b5e11376361f0a5bf"
+    },
+    {
+      "image": "projects/03-cvt/images/python-modeling-and-optimization-figure-4-p5-05.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image52.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        287,
+        157
+      ],
+      "new_size": [
+        570,
+        313
+      ],
+      "previous_sha256": "4d1b8595e663613e6f80405f9d6429ee96ba11ba76cddb9d44211df535902814",
+      "sha256": "50afc0cd16b27d555ab6f8c8041ef4e3310b304718408440113a84693f32802d"
+    },
+    {
+      "image": "projects/04-continuum/images/tendon-driven-continuum-robot-portfolio-overview-1-p2-14.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image7.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        162,
+        213
+      ],
+      "new_size": [
+        1206,
+        1581
+      ],
+      "previous_sha256": "a79ccb1dee228f4c1d847bfda74ac2aeb12d0a7e0cdef98b1f87d4f880a31824",
+      "sha256": "f922dc5ffaa8be72622242cc2c2db2da827287e5e252dce40cf7b345123a3b03"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-7-p2-27.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image27.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        217,
+        118
+      ],
+      "new_size": [
+        431,
+        234
+      ],
+      "previous_sha256": "2410b01db16e34e931f0ece02bb77e24d381fe2911336ed9ed2cc84c3673cfd6",
+      "sha256": "da899fe4a7c76313b89ccee5646413ef8b769b2dd0a96af9bc0518607d62b9d1"
+    },
+    {
+      "image": "projects/03-cvt/images/physical-concept-prototype-figure-1-p5-08.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image54.jpeg",
+      "crop_box": [
+        0,
+        74,
+        442,
+        490
+      ],
+      "render_dpi": null,
+      "old_size": [
+        272,
+        257
+      ],
+      "new_size": [
+        442,
+        416
+      ],
+      "previous_sha256": "ec1a04d991c2af6e04c828d99d25cdabb5145a69e2e400224772eed99ebf319f",
+      "sha256": "5eaaf3dbbd230ae95666b8fe15a796d74a59a7d7aa9f19b76a005614bd30b1ad"
+    },
+    {
+      "image": "projects/01-wrist/images/scalable-designs-figure-1-p3-20.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image37.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        274,
+        189
+      ],
+      "new_size": [
+        327,
+        225
+      ],
+      "previous_sha256": "ed955ed8fc8d410a2ce02ee618e02a614ca5d8f63202c80be11f9a42430119ff",
+      "sha256": "9e53a995ccdf8c911078111a7b22a4d68ba06141806cb4332747f28bbb7943af"
+    },
+    {
+      "image": "projects/07-parallel-linkage-bucket-robot/images/parallel-linkage-bucket-robot-figure-1-p7-06.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image9.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        272,
+        119
+      ],
+      "new_size": [
+        396,
+        173
+      ],
+      "previous_sha256": "bf827bf907fee969f664e7b7de4dba2e708352be082c4620ba83a7f4c84df6b5",
+      "sha256": "ecbbfdfec619a6dd8e385720039cfe6641f931b21be596037edceb4e70b31a10"
+    },
+    {
+      "image": "projects/16-computational-design-exploration/images/computational-design-exploration-figure-2-p7-41.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image14.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        100,
+        118
+      ],
+      "new_size": [
+        596,
+        700
+      ],
+      "previous_sha256": "4e56e34f8dbadd90bea0d9153574885c0602b459ca4fd0a50903eb1afda86135",
+      "sha256": "91ee16b3e8b077668e410364a16dafb83cc8f06cf1eddcf1af5d126e0e698d62"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-1-p2-21.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image21.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        264,
+        118
+      ],
+      "new_size": [
+        881,
+        394
+      ],
+      "previous_sha256": "5bd697bf42e5bbe2acd881c6c027581f5439194326a2a94a4880edbac06c253b",
+      "sha256": "21a1739f1a9ee0b58699c7d70dfc88fff7a5101fa30d23618b9520c1257ffafc"
+    },
+    {
+      "image": "projects/15-free-form-cad/images/free-form-cad-figure-3-p7-38.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image77.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        179,
+        102
+      ],
+      "new_size": [
+        1043,
+        595
+      ],
+      "previous_sha256": "ada4499e1fdb8dd7a0017a506e8e4cafca2a820c821d0515db330f00226c286e",
+      "sha256": "615d165dc76cca9ab7786f14bea6d9ec3c2e3c2be5b29fac016877da321ac229"
+    },
+    {
+      "image": "collections/competition/images/competitions-teamwork-portfolio-overview-1-p2-30.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image15.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        213,
+        157
+      ],
+      "new_size": [
+        897,
+        660
+      ],
+      "previous_sha256": "eff1f9b9813ccc3be4b4821f661fbc818410b0fd37a63acf665d719215285b75",
+      "sha256": "6f4445028a5a5a34cfc4cd67e8f9b1377a6b20f5b7b1443c4e457cc8996af929"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-5-p2-39.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image13.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        199,
+        118
+      ],
+      "new_size": [
+        692,
+        411
+      ],
+      "previous_sha256": "df96cf25886902618f0d096e803b2434aee91501ab316f0a5aa44f3233a249e5",
+      "sha256": "7e6c7210357658256137ef6719ca34346ed8da837d25ab2ac49de84137b5e1c7"
+    },
+    {
+      "image": "projects/16-computational-design-exploration/images/computational-design-exploration-figure-1-p7-40.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image15.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        106,
+        118
+      ],
+      "new_size": [
+        692,
+        767
+      ],
+      "previous_sha256": "abd194e32891e62b38fd9f963b999f6a951fed50c55d69ff084f09e8d3951735",
+      "sha256": "7b974bc5e16e030bd32675466b22a670d4f4f95e2e1f4ec87bf587ea5a9576a2"
+    },
+    {
+      "image": "projects/04-continuum/images/tendon-driven-continuum-robot-physical-prototype-p6-02.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image7.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        180,
+        236
+      ],
+      "new_size": [
+        1206,
+        1581
+      ],
+      "previous_sha256": "aed4bf173e81c3b1e5b3246bb099af4cfdaa219b8faa963626241798613e8620",
+      "sha256": "f922dc5ffaa8be72622242cc2c2db2da827287e5e252dce40cf7b345123a3b03"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-2-p2-22.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image22.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        354,
+        118
+      ],
+      "new_size": [
+        826,
+        275
+      ],
+      "previous_sha256": "170edb7910ce117c79aee8342519df7fad3b1a0d354c9450c498919999ffd059",
+      "sha256": "32927b1d3cd85c14f03f3ae58c80e8639a6034388e68011039e11670e6020add"
+    },
+    {
+      "image": "projects/02-arm/images/encoder-imu-sensing-figure-1-p4-16.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image45.png",
+      "crop_box": [
+        0,
+        0,
+        1500,
+        962
+      ],
+      "render_dpi": null,
+      "old_size": [
+        272,
+        174
+      ],
+      "new_size": [
+        1500,
+        962
+      ],
+      "previous_sha256": "bc09f03222818860f585847d620a32ff9d13a61f32ed82ef17ff36289afe23ab",
+      "sha256": "80eb2e24fb8bb812d115a860dbae21d0df2f0827dd6633da4cb8739ec1297f33"
+    },
+    {
+      "image": "projects/01-wrist/images/compliant-prosthetic-wrist-design-overview-p3-04.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image29.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        307,
+        156
+      ],
+      "new_size": [
+        958,
+        489
+      ],
+      "previous_sha256": "636e3ecbab1ba11f21c36b0d6662c51deaf047285ff1f34cb80de4bdebd76987",
+      "sha256": "6be6b1b2dd86c2e74bb5f3bce3c04ea7c1725f894e1a0e4145d6d9d943758239"
+    },
+    {
+      "image": "projects/01-wrist/images/experimental-setup-figure-1-p3-16.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image35.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        228,
+        153
+      ],
+      "new_size": [
+        562,
+        376
+      ],
+      "previous_sha256": "95bf7320b7e24c4b8301f06d01190b12422e6a7c744e269144fa37ee5ac8a70b",
+      "sha256": "1a34f7d0fd5e23561d33a6f5abe2dd0c78005ef66ef879184793ab45998dc7c3"
+    },
+    {
+      "image": "projects/01-wrist/images/compliant-prosthetic-wrist-portfolio-overview-1-p2-03.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image2.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        228,
+        228
+      ],
+      "new_size": [
+        580,
+        580
+      ],
+      "previous_sha256": "c6a58539b465921106cfc68390237cf2c7bcfbdb3672cec4d2af9f7fcc0ed908",
+      "sha256": "b38788bc9554256e82d988b18a6d23e36beece4faf736563e720a0ec8d9c6f47"
+    },
+    {
+      "image": "projects/02-arm/images/cycloidal-transmission-figure-1-p4-05.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image41.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        204,
+        196
+      ],
+      "new_size": [
+        639,
+        616
+      ],
+      "previous_sha256": "e7f663d7fbd92afec5b7865986facf6ede99a401e365989a2ed0d1838c35d77c",
+      "sha256": "55d72cfaa629cf3fb40f77bdd9e2b8af8643aa9a56f8ee542d5eccf7857f64eb"
+    },
+    {
+      "image": "projects/01-wrist/images/experimental-setup-figure-2-p3-17.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image36.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        228,
+        152
+      ],
+      "new_size": [
+        567,
+        379
+      ],
+      "previous_sha256": "69f7466e2c897430e68b9c8ec0686388d73472bb8f3cb2f70aba6c9d00f48448",
+      "sha256": "a7ac9a1dba76f7a3cb80f2826788fa60107e59bb0f6967a55d82d58bde0f9843"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-6-p2-26.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image26.png",
+      "crop_box": [
+        297,
+        0,
+        553,
+        162
+      ],
+      "render_dpi": null,
+      "old_size": [
+        187,
+        118
+      ],
+      "new_size": [
+        256,
+        162
+      ],
+      "previous_sha256": "d0aeec815528694f57a57d574873b9c633ebe5d5ec98549de37a650c5c0f5a17",
+      "sha256": "e5ceef91961f9f22b2bc302de47779455e6c9a1c4a347b91d41b6ac26e6f9b83"
+    },
+    {
+      "image": "projects/05-hand/images/control-motion-testing-figure-1-p6-16.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image59.png",
+      "crop_box": [
+        209,
+        0,
+        1018,
+        1516
+      ],
+      "render_dpi": null,
+      "old_size": [
+        138,
+        259
+      ],
+      "new_size": [
+        809,
+        1516
+      ],
+      "previous_sha256": "92c40a3dc5698bf937816aabc53c041eba7849f5e5420ae478bf9552a35b4e59",
+      "sha256": "25c2f4ca4caf176699407184f6426860e47121799aea703f9f409c36a20d13e2"
+    },
+    {
+      "image": "collections/competition/images/competitions-teamwork-portfolio-overview-2-p2-31.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image16.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        166,
+        157
+      ],
+      "new_size": [
+        670,
+        634
+      ],
+      "previous_sha256": "fd7473dd695cddc13501b6a7e0cfbd163d789e461ef909c3ff8aa98ceb7b3a85",
+      "sha256": "649dab657e779d6b3e0b60d01a72b7af24a6e473adc5470f8e79cc930cb59f18"
+    },
+    {
+      "image": "projects/05-hand/images/tendon-driven-compliant-robotic-hand-design-overview-p6-13.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image61.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        163,
+        141
+      ],
+      "new_size": [
+        759,
+        658
+      ],
+      "previous_sha256": "aa87cd3a0ab9b69ef5a4a6adbbb2a3462d35bfffd352b3bffe92de8232db48e7",
+      "sha256": "a042b4d07daa45b658137b082d6b238b3162cb03494bb3c11a98aa5493e7258a"
+    },
+    {
+      "image": "projects/05-hand/images/control-motion-testing-figure-2-p6-17.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image60.png",
+      "crop_box": [
+        268,
+        0,
+        995,
+        1600
+      ],
+      "render_dpi": null,
+      "old_size": [
+        117,
+        259
+      ],
+      "new_size": [
+        727,
+        1600
+      ],
+      "previous_sha256": "1413d979648b4992e1102a0cd4cdc6191dc25b400dc0c397f8443bb0a13c39c5",
+      "sha256": "1b9e5cfa53b91cc5ec600f9f48209d0c3569d24264ad079d4c22c7b4ab59a606"
+    },
+    {
+      "image": "projects/05-hand/images/mechanical-design-figure-1-p6-12.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image8.jpeg",
+      "crop_box": [
+        0,
+        0,
+        1206,
+        1373
+      ],
+      "render_dpi": null,
+      "old_size": [
+        124,
+        141
+      ],
+      "new_size": [
+        1206,
+        1373
+      ],
+      "previous_sha256": "f8a473c3ca5ae177f548afdd787899c96f280c4fe0dc51492b1c20bf44e06233",
+      "sha256": "ff9aed0447ebd78103e79fa08486fce94894827883acc3d88a4c3388f2bb5d56"
+    },
+    {
+      "image": "projects/01-wrist/images/automated-cad-cae-figure-2-p3-08.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image31.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        181,
+        161
+      ],
+      "new_size": [
+        460,
+        409
+      ],
+      "previous_sha256": "4fc15f04863dc4291da57120638943b26e7b848eb645955ef97301a56bf90d7a",
+      "sha256": "277e78927e379e1c6163530b6746e9bbb9470def9b6ee409d887d832a904ce5e"
+    },
+    {
+      "image": "projects/15-free-form-cad/images/free-form-cad-figure-1-p7-36.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image9.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        163,
+        118
+      ],
+      "new_size": [
+        228,
+        164
+      ],
+      "previous_sha256": "4355513de6352b8c057ea05a6c3de546d790463eb3be2a7ac3839b5df584e321",
+      "sha256": "d8d229aee8487057c415220691b93032a4dbf595b672a5618b78ebcd39e385fc"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-1-p2-35.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image9.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        163,
+        118
+      ],
+      "new_size": [
+        228,
+        164
+      ],
+      "previous_sha256": "c7d63491dbe82b14f02b2078cb51e547cdb3a4b53848a9d12523cd9046b71438",
+      "sha256": "d8d229aee8487057c415220691b93032a4dbf595b672a5618b78ebcd39e385fc"
+    },
+    {
+      "image": "projects/15-free-form-cad/images/free-form-cad-figure-2-p7-37.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image12.png",
+      "crop_box": [
+        0,
+        0,
+        858,
+        543
+      ],
+      "render_dpi": null,
+      "old_size": [
+        186,
+        118
+      ],
+      "new_size": [
+        858,
+        543
+      ],
+      "previous_sha256": "3f72d7dde9136e6b6915f99fe655e3e7fdbc02ee96e611405f1fc86e3cfd71dd",
+      "sha256": "9d9f13c9707241484f80bc064ba181f465eb4df24adf0205144c8801ad439780"
+    },
+    {
+      "image": "projects/01-wrist/images/automated-cad-cae-figure-1-p3-07.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image30.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        181,
+        145
+      ],
+      "new_size": [
+        514,
+        412
+      ],
+      "previous_sha256": "34489cdce3dae86590905419e831d9a715bacaa645368d95c8289979315f6365",
+      "sha256": "b5af9522f44e029fedf97a39a3fd430edb6f69ead335f09d1b7ef93136429523"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-5-p2-25.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image25.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        180,
+        118
+      ],
+      "new_size": [
+        286,
+        188
+      ],
+      "previous_sha256": "9bd1277deed27f819427e3a1ae792864a874d272d0912273f79c7a17f2e8e295",
+      "sha256": "bf06dd3dc574b2eb6ba8d462af36533682a93333f81b58c5e67a925664991e2d"
+    },
+    {
+      "image": "projects/02-arm/images/cycloidal-transmission-figure-2-p4-06.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image42.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        194,
+        196
+      ],
+      "new_size": [
+        529,
+        537
+      ],
+      "previous_sha256": "f6cff12e41a39d422e8f2bde8ecb1e4601de09a803741a7514c19cdedb8414cc",
+      "sha256": "47265b7d428623a1ff0d55dfcc3d2d62bc418977f5c7bbc0fc0f27190449eee0"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-4-p2-38.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image12.png",
+      "crop_box": [
+        0,
+        0,
+        858,
+        543
+      ],
+      "render_dpi": null,
+      "old_size": [
+        186,
+        118
+      ],
+      "new_size": [
+        858,
+        543
+      ],
+      "previous_sha256": "266feebfa5b42e241efd292ba2a4a5fbbabe75052f08179aa844d299ec99e448",
+      "sha256": "9d9f13c9707241484f80bc064ba181f465eb4df24adf0205144c8801ad439780"
+    },
+    {
+      "image": "projects/04-continuum/images/control-motion-testing-figure-2-p6-07.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image56.png",
+      "crop_box": [
+        25,
+        0,
+        244,
+        649
+      ],
+      "render_dpi": null,
+      "old_size": [
+        79,
+        236
+      ],
+      "new_size": [
+        219,
+        649
+      ],
+      "previous_sha256": "a0fd0a13234d0fc63da7cba879e9f3635a7d18b049f974d19c9c26d354a1c4d9",
+      "sha256": "cb806dc769a22f1e17c966a0b7174c2c9962256fec30fb7051c36d3350969bf6"
+    },
+    {
+      "image": "projects/14-art/images/art-figure-3-p7-35.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image17.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        110,
+        118
+      ],
+      "new_size": [
+        1206,
+        1288
+      ],
+      "previous_sha256": "2ceb5a8d7fc17e82c5000e10d797fd90d06110fbd5fd6d2e71547ff203ed5d9d",
+      "sha256": "4c5e62c635b3ed84c7c96b76a3b1d3f4aedf4c5e5c6ef59499872723297abb7a"
+    },
+    {
+      "image": "projects/01-wrist/images/parametric-design-figure-2-p3-12.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image33.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        129,
+        149
+      ],
+      "new_size": [
+        436,
+        505
+      ],
+      "previous_sha256": "f9e0daf8706ae778eeab7a5401e9b223c6d297e15067161d97aa354f7f8200a8",
+      "sha256": "3b2b8839271d3a68bf7d8b73d009aeb7bfa43e9434a58ed050622a470e7b8696"
+    },
+    {
+      "image": "projects/15-free-form-cad/images/free-form-cad-figure-4-p7-39.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image78.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        145,
+        102
+      ],
+      "new_size": [
+        730,
+        512
+      ],
+      "previous_sha256": "4bbf15de6ad5d2c2888181cf26a82678e4e5e713e9a2dfb242fdbc19fe94b1e5",
+      "sha256": "a4af36e7635937a5d104df6feb01ceb1f946f608f9b416e8dbfa01783f34a103"
+    },
+    {
+      "image": "projects/08-floor-polish-robot/images/floor-polish-robot-figure-2-p7-11.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image14.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        158,
+        94
+      ],
+      "new_size": [
+        291,
+        173
+      ],
+      "previous_sha256": "88cba09045d077872d051cab2b37c35a4b656853e94784b6f31a1f3d3d7e0c5a",
+      "sha256": "c576212abb74e39cbdc85cc54a340891f0ce9e4d0cc1c84635bc256b2e6b04ac"
+    },
+    {
+      "image": "projects/02-arm/images/actuator-architecture-figure-1-p4-02.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image39.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        272,
+        158
+      ],
+      "new_size": [
+        1032,
+        598
+      ],
+      "previous_sha256": "a75a9b440050fb36362ddc7c5cc892599c520fbf48431f65d5f32b5ebe507459",
+      "sha256": "727d627fd657b574576600dfd052f321cd36214494bfcdea29844a6eb7e1635d"
+    },
+    {
+      "image": "projects/04-continuum/images/control-motion-testing-figure-3-p6-08.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image57.png",
+      "crop_box": [
+        0,
+        0,
+        234,
+        670
+      ],
+      "render_dpi": null,
+      "old_size": [
+        82,
+        236
+      ],
+      "new_size": [
+        234,
+        670
+      ],
+      "previous_sha256": "4f164e5cdaec51761a119591666b263bbd93155ae4a1c0659713f0c553c1cd52",
+      "sha256": "70eb05cc502d8e6a45027483641745dd8763e0783d38baff008abfc0145e5197"
+    },
+    {
+      "image": "projects/05-hand/images/tendon-driven-compliant-robotic-hand-portfolio-overv-p2-17.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image8.jpeg",
+      "crop_box": [
+        0,
+        0,
+        1206,
+        1373
+      ],
+      "render_dpi": null,
+      "old_size": [
+        165,
+        189
+      ],
+      "new_size": [
+        1206,
+        1373
+      ],
+      "previous_sha256": "8f79e67b11b2b5320169d3fb054f36d8f855b5fec99eb15fc658edf0e9e125ac",
+      "sha256": "ff9aed0447ebd78103e79fa08486fce94894827883acc3d88a4c3388f2bb5d56"
+    },
+    {
+      "image": "projects/10-micro-hydro-system/images/micro-hydro-system-figure-1-p7-18.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image31.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        157,
+        102
+      ],
+      "new_size": [
+        1077,
+        701
+      ],
+      "previous_sha256": "3e98bf4ad4c98bc207c6fefb2629e1c4bdc3ee243eb44be4fa24f50955635a19",
+      "sha256": "559ae104a84d1928970b08271005538e0f7c1dec71141efdaff792be7789db1b"
+    },
+    {
+      "image": "projects/04-continuum/images/mechanical-design-figure-2-p6-03.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image58.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        109,
+        236
+      ],
+      "new_size": [
+        736,
+        1600
+      ],
+      "previous_sha256": "e6f916013590bbc1dda0478a8130ef2f209de1c63a996ace57ce9b8fd0b48c64",
+      "sha256": "85037d69bf9e31802c98bb66f6a1f74e16f3d17e140bea2d9e758ef56d881b9d"
+    },
+    {
+      "image": "projects/09-battery-thermal-management/images/battery-thermal-management-figure-1-p7-14.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image67.png",
+      "crop_box": [
+        530,
+        0,
+        992,
+        295
+      ],
+      "render_dpi": null,
+      "old_size": [
+        157,
+        100
+      ],
+      "new_size": [
+        462,
+        295
+      ],
+      "previous_sha256": "80381a5385c8a56c12fa95a41258b48d210a346fa27de31f280c0758d6d1d9c7",
+      "sha256": "2fe38fc36be694a850701f6730b4d3bc864399acd3ffa34f57fb4ae9778cd6c5"
+    },
+    {
+      "image": "projects/08-floor-polish-robot/images/floor-polish-robot-figure-1-p7-10.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image13.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        146,
+        118
+      ],
+      "new_size": [
+        215,
+        173
+      ],
+      "previous_sha256": "a51b86323a0f0be25a781d352adc506d7cc337763210d3c7f6f7819fad4e25a9",
+      "sha256": "087eaa121cde7824f3f2211637437da8eb3bc7f59653e1a2a535e5f4744464cb"
+    },
+    {
+      "image": "collections/industry/images/industry-collaboration-portfolio-overview-3-p2-23.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image23.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        188,
+        118
+      ],
+      "new_size": [
+        345,
+        217
+      ],
+      "previous_sha256": "a8fea157677997f7cd259ecf243cfa5243ac17e7cd48765217998f2dae3eaf8c",
+      "sha256": "f6e73e0261e6307f420c403112727a63a93e41c04169181e743eaf2d780abd5b"
+    },
+    {
+      "image": "projects/02-arm/images/custom-bldc-cycloidal-actuators-teleoperated-robotic-p2-10.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image5.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        193,
+        82
+      ],
+      "new_size": [
+        835,
+        355
+      ],
+      "previous_sha256": "6e15f02b3839297ea6c4431e7299c232026da81299acc5303ede9069791d958e",
+      "sha256": "733b599d221b574b67b5d7216a0c84074f8952e4327eecdf8cc11f0a1398fa31"
+    },
+    {
+      "image": "projects/09-battery-thermal-management/images/battery-thermal-management-figure-2-p7-15.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image67.png",
+      "crop_box": [
+        41,
+        0,
+        476,
+        295
+      ],
+      "render_dpi": null,
+      "old_size": [
+        157,
+        106
+      ],
+      "new_size": [
+        435,
+        295
+      ],
+      "previous_sha256": "ccac675e48c14750164a33013618af779b757284c1f65ca62f0ba7bdc5f5366c",
+      "sha256": "78c9713fcb890560cf2f38a3b93856b3bc0efe7c4d2a816d0ac9c88e18a2bad6"
+    },
+    {
+      "image": "projects/02-arm/images/cycloidal-transmission-figure-3-p4-07.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image43.png",
+      "crop_box": [
+        0,
+        -162,
+        1185,
+        787
+      ],
+      "render_dpi": null,
+      "old_size": [
+        246,
+        196
+      ],
+      "new_size": [
+        1185,
+        949
+      ],
+      "previous_sha256": "570073f555ed0055f65a859b8b9aef28e37a11f232fb364f51ff4cc41a79f8fd",
+      "sha256": "a69f715a5b5a6a87d5f0aa2250872892cd18f8860b1761b2ca8781434a5f6368"
+    },
+    {
+      "image": "projects/12-abu-robocon-krai/images/abu-robocon-krai-figure-1-p7-25.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image15.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        150,
+        110
+      ],
+      "new_size": [
+        897,
+        660
+      ],
+      "previous_sha256": "0c05d2327ebea19f180f94214ad0f59c708eb7e474aba4769094c251433968ba",
+      "sha256": "6f4445028a5a5a34cfc4cd67e8f9b1377a6b20f5b7b1443c4e457cc8996af929"
+    },
+    {
+      "image": "projects/12-abu-robocon-krai/images/abu-robocon-krai-figure-2-p7-26.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image72.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        147,
+        110
+      ],
+      "new_size": [
+        1477,
+        1108
+      ],
+      "previous_sha256": "58ef6abc078ba53bf86f52b4c5f82005fcec4b677c318816ddc8beeba132c216",
+      "sha256": "d8c014edf019a849f7adcf00c2e3ccff840f12fb01e94daa72e8471c77e2b681"
+    },
+    {
+      "image": "projects/10-micro-hydro-system/images/micro-hydro-system-figure-2-p7-19.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image32.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        195,
+        102
+      ],
+      "new_size": [
+        1200,
+        629
+      ],
+      "previous_sha256": "a73f062a4bc4968927616d911bbb74940f022fa90e557ed69414dbb4c265dc9e",
+      "sha256": "e4d8f49de221e866a3f684b9597edd74ebc3ed47c87d85833945e0e167d45f81"
+    },
+    {
+      "image": "projects/06-ne750j-structure-improvement/images/ne750j-structure-improvement-figure-2-p7-03.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image4.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        148,
+        102
+      ],
+      "new_size": [
+        251,
+        173
+      ],
+      "previous_sha256": "5a7accea1a90b81bb5514a194a4db40743398a32f55f02b12b4e1f09f55ef98d",
+      "sha256": "1d022b1139a849ec84100922c7ccda4a10ad121b43481ff3e4d91184c5c3b82a"
+    },
+    {
+      "image": "projects/02-arm/images/custom-bldc-cycloidal-actuators-teleoperated-robotic-p2-11.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image6.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        193,
+        93
+      ],
+      "new_size": [
+        1138,
+        547
+      ],
+      "previous_sha256": "aa19bb1e73ae54229d01a45c5b8e4138bf240708974866c11b8d7a3c6e0bdd4a",
+      "sha256": "d01b8782e3e78bb959ccbfb17de615c26eb6928f522191d0112a237a86c23991"
+    },
+    {
+      "image": "projects/14-art/images/art-figure-2-p7-34.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image20.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        118,
+        118
+      ],
+      "new_size": [
+        448,
+        446
+      ],
+      "previous_sha256": "733ee8347bdbcc7eec4ca3ec641630731746dfb3f3a979f07f7e75daeb25d8e9",
+      "sha256": "65ae1f690704b6ccb972831188f0ded2a45c6347739bd563de754fef328fcd2f"
+    },
+    {
+      "image": "projects/12-abu-robocon-krai/images/abu-robocon-krai-figure-4-p7-28.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image74.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        145,
+        118
+      ],
+      "new_size": [
+        766,
+        622
+      ],
+      "previous_sha256": "8ad1868fa99c62f8204d107f4a56cd766047b3c597c912b51e14434da95583a7",
+      "sha256": "c79b1321296f1c0950af8baaa77584822c8b81c85d51af0b2e828c2b0384924d"
+    },
+    {
+      "image": "projects/12-abu-robocon-krai/images/abu-robocon-krai-figure-3-p7-27.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image17.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        134,
+        118
+      ],
+      "new_size": [
+        807,
+        710
+      ],
+      "previous_sha256": "b5f8097ccbc3ad817e150feb151fffdff5db5208b61c80d62f2c3eb6b2ee4d48",
+      "sha256": "e16cbd4548aedc63c180da76c99c13e0d41a835d8d587f516a7e0c12e5616d0d"
+    },
+    {
+      "image": "projects/14-art/images/art-figure-1-p7-33.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image10.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        96,
+        118
+      ],
+      "new_size": [
+        283,
+        346
+      ],
+      "previous_sha256": "9889ae14be789606582725cde33014d0f87099a7f6cbd4ec2abe3123cf8c7d68",
+      "sha256": "f988b740f117981bbd55ce916d4395d228e676ac523d512812b235b2bcc3f9d8"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-8-p2-42.webp",
+      "source_document": "Complete Portfolio_Avatar Ndoen.docx",
+      "source_image": "image20.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        118,
+        118
+      ],
+      "new_size": [
+        448,
+        446
+      ],
+      "previous_sha256": "2295390cec079d01a3e8066a69d853a6b88d329a6674ff3693cf95d6a7a1dcb3",
+      "sha256": "65ae1f690704b6ccb972831188f0ded2a45c6347739bd563de754fef328fcd2f"
+    },
+    {
+      "image": "projects/03-cvt/images/beltless-gear-cvt-portfolio-overview-2-p2-07.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image4.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        112,
+        102
+      ],
+      "new_size": [
+        247,
+        225
+      ],
+      "previous_sha256": "8c00719b2e1f9046a53980978caaecf1f115e0210c46f1724fe7a6f8b55c070a",
+      "sha256": "da679587d1a9899e84827d43b833c79cc68158d7a2f607207654b598ef691d90"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-9-p2-43.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image17.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        110,
+        118
+      ],
+      "new_size": [
+        1206,
+        1288
+      ],
+      "previous_sha256": "ba02cd2975d73c5879eefcded7708bae54d29daafd61e7cc0114647e1548f07e",
+      "sha256": "4c5e62c635b3ed84c7c96b76a3b1d3f4aedf4c5e5c6ef59499872723297abb7a"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-2-p2-36.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image10.jpeg",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        96,
+        118
+      ],
+      "new_size": [
+        283,
+        346
+      ],
+      "previous_sha256": "5066167f130160156d2f94251f181aad0146a6a8dede54a6c7fa78c5eab7184b",
+      "sha256": "f988b740f117981bbd55ce916d4395d228e676ac523d512812b235b2bcc3f9d8"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-6-p2-40.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image14.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        100,
+        118
+      ],
+      "new_size": [
+        596,
+        700
+      ],
+      "previous_sha256": "eef7c1d5d6c71f86f574a883e0af6359781fc9849bea8930b1386bdf0c650f7a",
+      "sha256": "91ee16b3e8b077668e410364a16dafb83cc8f06cf1eddcf1af5d126e0e698d62"
+    },
+    {
+      "image": "projects/06-ne750j-structure-improvement/images/ne750j-structure-improvement-figure-1-p7-02.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image62.jpeg",
+      "crop_box": [
+        0,
+        0,
+        223,
+        173
+      ],
+      "render_dpi": null,
+      "old_size": [
+        132,
+        102
+      ],
+      "new_size": [
+        223,
+        173
+      ],
+      "previous_sha256": "0c00ac1f66e8c6743d6a37eff10401b71554e0d831e97abfcd0696b0fed7235f",
+      "sha256": "ed80404b13c902fd758be7ea0792661a27dd1813eff9a37e807b2f2ee3abb51a"
+    },
+    {
+      "image": "collections/explorations/images/beyond-the-brief-portfolio-overview-7-p2-41.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image15.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        106,
+        118
+      ],
+      "new_size": [
+        692,
+        767
+      ],
+      "previous_sha256": "0ea0f238ef4ba40700ed30cc6e7c7ab254127a8f29097eb87e03018467a5b597",
+      "sha256": "7b974bc5e16e030bd32675466b22a670d4f4f95e2e1f4ec87bf587ea5a9576a2"
+    },
+    {
+      "image": "projects/11-nusabin-sorter-composter/images/nusabin-sorter-composter-figure-1-p7-22.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image70.emf",
+      "crop_box": [
+        0,
+        0,
+        2854,
+        1576
+      ],
+      "render_dpi": 600,
+      "old_size": [
+        283,
+        156
+      ],
+      "new_size": [
+        2854,
+        1576
+      ],
+      "previous_sha256": "64e9818b53733ff95c364ea867c4bc1f3d6751ef4ae3cf90322d3cd5325905af",
+      "sha256": "57e6978942c28b67fac6f6a8a8b4e85db31a3dabfc96d39505838f6126df52fb"
+    },
+    {
+      "image": "projects/13-vorione-bladeless-wind-turbine/images/vorione-bladeless-wind-turbine-figure-3-p7-43.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image71.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        167,
+        128
+      ],
+      "new_size": [
+        167,
+        128
+      ],
+      "previous_sha256": "dbffffc6c49bb714ed9717be86c2bee1609ffa13f263aa11d1968fc717f1cd91",
+      "sha256": "ed364174e080ecde526f3dd086c19fb835edbe48d6945b943f3350887147c3bb"
+    },
+    {
+      "image": "projects/13-vorione-bladeless-wind-turbine/images/vorione-bladeless-wind-turbine-figure-2-p7-42.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image76.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        149,
+        140
+      ],
+      "new_size": [
+        149,
+        140
+      ],
+      "previous_sha256": "8b5e7ca53241e87149434828a65476c3b94eed5690de1b1bbbb856ae33f5fefc",
+      "sha256": "c01c6644117e5ab4d2cf2c66f5feec7ac7cb289bf277b1dfa71af1cf63f4a524"
+    },
+    {
+      "image": "collections/competition/images/competitions-teamwork-portfolio-overview-3-p2-32.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image75.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        115,
+        157
+      ],
+      "new_size": [
+        222,
+        303
+      ],
+      "previous_sha256": "14bdce91068d0cf8bbed1d34fadbe5dabd3d6031675e796e7d1abb973d1814ab",
+      "sha256": "d3082323be62bb909cce657b761b20aca9684380f33cfcde05aa16770b4e79db"
+    },
+    {
+      "image": "projects/13-vorione-bladeless-wind-turbine/images/vorione-bladeless-wind-turbine-figure-1-p7-31.webp",
+      "source_document": "Portfolio.docx (Downloads)",
+      "source_image": "image75.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        126,
+        172
+      ],
+      "new_size": [
+        222,
+        303
+      ],
+      "previous_sha256": "538907eef5341baabd7d5d4931cadd30752a364556893df3959c29637d23196b",
+      "sha256": "d3082323be62bb909cce657b761b20aca9684380f33cfcde05aa16770b4e79db"
+    },
+    {
+      "image": "projects/03-cvt/images/beltless-gear-cvt-design-overview-p5-13.webp",
+      "source_document": "Portfolio CVT Update Image Source 2026-10-28.docx",
+      "source_image": "image3.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        236,
+        189
+      ],
+      "new_size": [
+        768,
+        616
+      ],
+      "previous_sha256": "5c32328b02c80e1c65ee7f33c29b887b150d3d32f8d0de62b2f259468979f568",
+      "sha256": "98bf5ce47d053b960852c79679a6e6e17435a43c8d96f902a59a85b17cec7886"
+    },
+    {
+      "image": "projects/03-cvt/images/beltless-gear-cvt-portfolio-overview-1-p2-06.webp",
+      "source_document": "Portfolio CVT Update Image Source 2026-10-28.docx",
+      "source_image": "image3.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        112,
+        102
+      ],
+      "new_size": [
+        768,
+        616
+      ],
+      "previous_sha256": "cf00f329b0df372e18977757d95d6450ff90791e4ee369f1586f4693ea326b68",
+      "sha256": "98bf5ce47d053b960852c79679a6e6e17435a43c8d96f902a59a85b17cec7886"
+    },
+    {
+      "image": "projects/03-cvt/images/cad-and-motion-validation-figure-1-p5-12.webp",
+      "source_document": "Portfolio CVT Update Image Source 2026-10-28.docx",
+      "source_image": "image53.png",
+      "crop_box": null,
+      "render_dpi": null,
+      "old_size": [
+        236,
+        224
+      ],
+      "new_size": [
+        663,
+        628
+      ],
+      "previous_sha256": "9f95a5c39ce1ea86a2c1e687be3af25940f52611dc70f5bba39689d3ef2f610f",
+      "sha256": "078b70810067be6301342bc34a74320b97ac4a8a31e4ea26bab91d31b19bb4a8"
+    }
+  ],
+  "retained": []
+}
