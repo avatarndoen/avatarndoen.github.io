@@ -515,7 +515,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-off
   .about-layout .journey-chapter h3{font-size:1.375rem}
   .journey-chapter{min-height:50vh}
 }
-@media(max-height:600px){.journey-map{position:relative;top:0}.journey-svg{height:190px}.journey-chapter{min-height:240px}}
+@media screen and (max-height:600px){.journey-svg{height:clamp(72px,calc(100dvh - 330px),190px)}.journey-chapter{min-height:240px}}
 @media(prefers-reduced-motion:reduce){.journey-map *{transition:none!important;animation:none!important}.journey-pin:not(.is-active) text{display:none}}
 @media print{.about-layout{display:block}.journey-map{position:static}.journey-chapter{min-height:0}.journey-svg{height:260px}.journey-layout{display:grid}}
 
