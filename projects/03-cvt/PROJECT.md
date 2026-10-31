@@ -1,6 +1,6 @@
 ---
 id: cvt
-title: Beltless Gear CVT
+title: Computational Optimization of a Beltless Gear CVT
 order: 3
 collection: selected
 category: Mechanism Design & Computational Optimization
