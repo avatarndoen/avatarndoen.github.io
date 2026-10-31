@@ -1,0 +1,29 @@
+{
+  "geometry_source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_land.geojson",
+  "geometry_sha256": "e874b27a51d146452be360cafb3cc50c86001074a67d534113e6534682f9826b",
+  "license": "Natural Earth public domain",
+  "projection": "Mercator; longitude/latitude projected at 10 units per degree at equator",
+  "places": [
+    {
+      "name": "Kupang",
+      "longitude": 123.5833,
+      "latitude": -10.1666
+    },
+    {
+      "name": "Bandung",
+      "longitude": 107.64,
+      "latitude": -6.92
+    },
+    {
+      "name": "Toyota, Japan",
+      "longitude": 137.156333,
+      "latitude": 35.082444
+    }
+  ],
+  "coordinate_sources": [
+    "https://ungegn.un.org/dashboard/cities/details?id=2830",
+    "https://bandungkota.bps.go.id/en/statistics-table/2/NTcjMg%3D%3D/coordinates-and-altitude-by-subistricts-in-the-city-of-bandung.html",
+    "https://en.wikipedia.org/wiki/Toyota,_Aichi"
+  ],
+  "narrative_source": "02 Applications/Fall 2027/UC San Diego/Drafts/PERSONAL_STATEMENT.md, applicant-directed reference October 31, 2026"
+}
