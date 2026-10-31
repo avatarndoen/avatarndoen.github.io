@@ -1,6 +1,6 @@
 ---
 id: wrist
-title: Compliant Prosthetic Wrist
+title: A surrogate-assisted framework for the subject-specific scalable design of compliant prosthetic wrists
 order: 1
 collection: selected
 category: Automated CAD–CAE & Surrogate-Assisted Optimization
