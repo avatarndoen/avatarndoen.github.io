@@ -460,7 +460,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-off
 .journey-section{margin:28px 0 32px}
 .about-layout .journey-section>h2{margin-top:0}
 .journey-layout{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:32px;align-items:start;position:relative}
-.journey-map{position:sticky;top:106px;margin:0;min-width:0;border:1px solid var(--line);border-radius:10px;background:var(--paper);overflow:hidden}
+.journey-map{position:sticky;top:106px;margin:0;min-width:0;border:1px solid var(--line);border-radius:10px;background:var(--paper);overflow:hidden;overflow-anchor:none}
 .journey-map-heading{display:flex;justify-content:space-between;gap:12px;padding:16px 18px 10px;font-size:.9375rem;line-height:1.5;font-weight:600}
 .journey-map-heading>span:last-child{font-size:.8125rem;font-weight:400;color:var(--muted);white-space:nowrap}
 .journey-svg{display:block;width:100%;height:clamp(220px,34vh,340px);background:#f0f3ec;overflow:hidden}

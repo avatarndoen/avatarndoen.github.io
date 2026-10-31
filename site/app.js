@@ -195,12 +195,15 @@ document.querySelectorAll('[data-journey]').forEach(journey=>{
     const scrollPadding=parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop)||0;
     const anchorOffset=Math.max(0,Math.round((stacked?88+mapBox.height+24:110)-scrollPadding));
     chapters.forEach(chapter=>{chapter.style.scrollMarginTop=`${anchorOffset}px`;});
-    const focusLine=stacked?Math.min(window.innerHeight-80,Math.max(window.innerHeight*.55,mapBox.bottom+(window.innerHeight-mapBox.bottom)*.5)):window.innerHeight*.55;
+    // Use the pinned position, even while the map releases at the section end.
+    const pinnedBottom=(parseFloat(getComputedStyle(map).top)||0)+mapBox.height;
+    const focusLine=stacked?Math.min(window.innerHeight-80,Math.max(window.innerHeight*.55,(pinnedBottom+window.innerHeight)*.5)):window.innerHeight*.55;
     const boxes=chapters.map(c=>c.getBoundingClientRect());
     let progress=0;
     for(let i=0;i<2;i++){
-      const start=boxes[i].bottom-Math.min(140,boxes[i].height*.25);
-      const end=boxes[i+1].top+24;
+      // Travel between chapter centres rather than rushing through their boundary.
+      const start=boxes[i].top+boxes[i].height*.5;
+      const end=boxes[i+1].top+boxes[i+1].height*.5;
       if(focusLine>=end)progress=i+1;
       else if(focusLine>start)progress=i+clamp((focusLine-start)/(end-start));
     }
