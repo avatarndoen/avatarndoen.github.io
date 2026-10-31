@@ -10,7 +10,7 @@ I enjoy taking an idea from a model to a working prototype, using design, simula
 
 ## Research direction
 
-I want to develop **affordable robotic devices for healthcare**, including assistive systems that support natural movement and surgical manipulators for precise tasks. I want to build on my experience with mechanisms, actuation, computational design, and teleoperation through further research.
+I want to build **practical, affordable robots that help people**: assistive devices that support movement and independence, and surgical systems that improve access to precise care. My interests lie in the mechanisms, actuation, and computational design that make these devices work well with people.
 
 ## Beyond engineering
 

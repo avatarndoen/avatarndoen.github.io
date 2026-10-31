@@ -45,9 +45,12 @@ for(const page of pages){
   assert(!html.includes('Original portfolio overview figures'),'Removed overview panels must not return');
   assert(!html.includes('<summary>Original portfolio overview'),'Removed overview panels must not return');
 }
-const homeHTML=fs.readFileSync(path.join(dist,'index.html'),'utf8');
+const landingHTML=fs.readFileSync(path.join(dist,'index.html'),'utf8');
+assert(landingHTML.includes('id="skills"')&&landingHTML.includes('id="about-my-journey"'),'About homepage retains background and capabilities');
+assert(!landingHTML.includes('class="project-row"'),'Projects belong on Portfolio');
+const homeHTML=fs.readFileSync(path.join(dist,'portfolio.html'),'utf8');
 assert(!fs.existsSync(path.join(dist,'projects.html')),'Home replaces the duplicate project index');
-assert(homeHTML.includes('aria-label="Home contents"'),'Home needs integrated contents');
+assert(homeHTML.includes('aria-label="Portfolio contents"'),'Home needs integrated contents');
 assert(!homeHTML.includes('<details'),'Home contents must stay integrated');
 assert(!homeHTML.includes('All 16 projects'),'Remove the redundant index button');
 for(const id of ['about','experience','publication','contact'])assert(!homeHTML.includes(`id="${id}"`),`Home must end after the project collections: ${id}`);

@@ -2,18 +2,12 @@
 
 ## Kupang
 
-I grew up in **Kupang, Nusa Tenggara Timur, Indonesia**. I loved building with LEGO and trying to understand how things moved, but had few opportunities to explore engineering beyond textbooks.
-
-In Nusa Tenggara Timur, specialist treatment can mean difficult roads or travel between islands. That background is why **affordability and access to care** matter to me.
+I grew up in **Kupang, Indonesia**, building with LEGO and wondering how things moved. Opportunities to explore engineering were limited. Seeing how much people relied on physical work, and how difficult specialist care could be to reach, shaped my interest in robots that help people.
 
 ## Bandung
 
-Joining a robotics club introduced me to CAD, 3D printing, and microcontrollers. I learned by practicing and building.
-
-For my undergraduate thesis at ITB's Biomechanics Research Lab, I designed a **compliant prosthetic wrist** and developed CAD–CAE automation and machine-learning-assisted optimization to personalize its motion and stiffness.
+At ITB, I discovered CAD, 3D printing, and microcontrollers through a robotics club. I went from learning the basics to **leading the mechanical division** and helping newer members. My compliant prosthetic-wrist research brought together mechanism design, simulation, and optimization, and led to a publication in **Scientific Reports**.
 
 ## Japan
 
-I now work in **Toyota, Japan**. Earning a salary made it possible to buy parts and explore ideas that were beyond my student budget.
-
-Outside work, I build my own robots, including custom actuators, a teleoperated arm and wearable controller, a tendon-driven hand, and a continuum robot. [Explore my projects](index.html#selected-work).
+Working as a **mechanical design engineer in Japan** lets me fund my own robot builds, from custom actuators to a teleoperated arm, continuum robot, and robotic hand. Wearing my own controller taught me to think beyond motion: a device also needs to feel comfortable to use. [Explore my projects](portfolio.html#selected-work).

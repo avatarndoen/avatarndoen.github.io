@@ -619,3 +619,27 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-off
 @media(prefers-reduced-motion:reduce){.dock-mark{transition:none}}
 @media(prefers-reduced-transparency:reduce){.contents-dock,.dock-tooltip{background:var(--paper);backdrop-filter:none;-webkit-backdrop-filter:none}}
 @media print{.contents-dock{display:none!important}}
+
+/* About Me is the landing page; portfolio is reserved for projects. */
+.home-profile .about-heading h1{font-size:clamp(2.5rem,5vw,4.7rem);line-height:1.06;letter-spacing:-.045em;max-width:12ch;overflow-wrap:normal}
+.home-profile .hero-personal{margin:1rem 0;font-size:clamp(1.3rem,2.3vw,1.9rem)}
+.home-profile .hero-intro{max-width:40rem}
+.home-profile .actions{margin-top:1.6rem;flex-wrap:wrap}
+.portfolio-heading{padding:3.5rem 0 1rem}
+.portfolio-heading h1{font-size:clamp(2.6rem,6vw,5rem);line-height:1.05;letter-spacing:-.045em;margin:.7rem 0 1.2rem}
+.portfolio-heading .page-lead{max-width:45rem}
+.research-interest-list{margin:0 0 3rem}
+@media(max-width:600px){.home-profile .about-heading h1{font-size:clamp(2.25rem,10vw,3.2rem)}.portfolio-heading{padding-top:2rem}}
+
+@media(max-width:1000px){.about-layout .home-profile{grid-template-columns:minmax(0,1fr);grid-template-areas:none;gap:24px}.about-layout .home-profile .about-intro-copy{display:block}.about-layout .home-profile .about-profile-aside{grid-area:auto;max-width:210px;width:65%;margin:0}.about-layout .home-profile .about-portrait{max-width:210px}.home-profile .about-heading{grid-area:auto}}
+
+/* Landing portrait: a real introduction image, with one responsive layout. */
+.about-layout .home-profile{display:grid;grid-template-columns:minmax(0,1fr) minmax(200px,30%);grid-template-areas:none;gap:clamp(24px,4vw,56px);align-items:center}
+.about-layout .home-profile .about-intro-copy{display:block;min-width:0}
+.about-layout .home-profile .about-profile-aside{position:static;display:block;grid-area:auto;order:0;width:100%;max-width:300px;margin:0;justify-self:end}
+.about-layout .home-profile .about-portrait{width:100%;max-width:none;margin:0}
+.home-profile .about-portrait .image-frame{aspect-ratio:517/652;overflow:hidden;border-radius:18px}
+.home-profile .about-portrait img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+.home-profile .about-heading h1{font-size:clamp(2.35rem,4.5vw,4.2rem)}
+.publication-label{display:inline-flex;align-items:center;gap:.4rem;font-size:.82rem;font-weight:600;line-height:1.4;margin:0 0 1rem;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
+@media(max-width:700px){.about-layout .home-profile{grid-template-columns:minmax(0,1fr);gap:24px}.about-layout .home-profile .about-profile-aside{grid-row:1;justify-self:start;width:clamp(140px,40vw,200px);max-width:200px}.home-profile .about-heading h1{font-size:clamp(2.2rem,9vw,3.4rem);max-width:15ch}}
