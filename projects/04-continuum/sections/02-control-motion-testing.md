@@ -1,9 +1,9 @@
 ---
-title: Control & Motion Testing
-group: 
-images: images/control-motion-testing-figure-1-p6-06.webp, images/control-motion-testing-figure-2-p6-07.webp, images/control-motion-testing-figure-3-p6-08.webp
+title: Dynamic Modeling & Feedforward Control
+group:
+images: images/joint-1-physical-model.png, images/joint-2-physical-model.png, images/joint-3-physical-model.png
 figure_layout: three-across
-video: 02-control-motion-testing
+video: 02-modeling-feedforward-control
 ---
 
-Demonstrated needle pickup and insertion into a grape, alongside individual bending-DoF actuation to assess motion isolation and parasitic movement.
+Developed a dynamic model incorporating joint stiffness, tendon forces, and friction to simulate bending behavior and validate the mechanical design. The model was used to calculate servo commands for feedforward control of individual bending DoFs, evaluating motion isolation and parasitic movement.
