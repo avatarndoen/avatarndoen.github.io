@@ -1,13 +1,9 @@
-# Word image upgrade
+# Image asset provenance
 
-October 28, 2026: replaced all 90 website image assets with images extracted directly from Word. 86 replacements have greater pixel area; four retain their stored resolution. Raster images were not enlarged. The Nusabin EMF was rendered at 600 dpi and cropped according to Word. Images are lossless WebP and retain the existing editable filenames.
+Most portfolio figures originate from the owner's engineering portfolio documents. Project image folders contain the published images, alongside Markdown files for descriptions, alternative text, and available source information.
 
-Primary source: ../Source Files/Portfolio Downloads Image Source 2026-10-28.docx (byte-for-byte copy of C:/Users/argan/Downloads/Portfolio.docx). Matching images from the two Complete Portfolio Word sources were also used. Original Word documents remain unchanged.
+The image upgrade manifest, [`WORD IMAGE UPGRADES.json`](WORD%20IMAGE%20UPGRADES.json), records source media references, dimensions, cropping information, and image hashes for replacements made during the portfolio migration. The build verification script uses the manifest to detect unintended changes to those assets.
 
-WORD IMAGE UPGRADES.json records the source document/media, crop, before/after dimensions and checksums. Sidecar Markdown records source media and actual display dimensions. Before-upgrade images and metadata are preserved in 90 Archive/Portfolio/Website/Before Word Image Upgrade 2026-10-28.
+When replacing an image, preserve its descriptive sidecar record, update its alternative text where needed, and review all pages using it. If a managed image is intentionally replaced, update the relevant integrity record before rerunning the checks.
 
-Follow-up: the main Word file became readable. Its updated CVT drawings now replace the two formerly unmatched views and the Home CVT preview. Sources are image3.png (768 × 616) and image53.png (663 × 628), preserved in ../Source Files/Portfolio CVT Update Image Source 2026-10-28.docx.
-
-Vorione recheck: individual-project source pictures in the current Word file remain image75.png (149 × 140) and image70.png (167 × 128), with no embedded higher-resolution or vector alternate. Original Vorione project files were located at C:/Users/argan/OneDrive/ITB/Non Unit-Akademik/Vorione, but reads fail with Invalid argument while the files are cloud-only. No claim that higher-resolution originals do not exist.
-
-Verified the Home collages and continuum page in the browser. The three continuum control images remain in one row. Source documents, video links and scrolling behavior were preserved.
+Images are presented as project documentation; rendering or conversion does not itself constitute additional experimental validation.

@@ -16,8 +16,8 @@ Reviewed October 28, 2026. These inform presentation only; no project facts, bio
 
 ## Applied direction
 
-A warm-paper background, deep-green type, restrained terracotta accents, serif emphasis in the opening, and readable system fonts. No external font or image service is required. The applicant's own images remain uncropped and unaltered.
+A warm-paper background, deep-green type, restrained terracotta accents, serif emphasis in the opening, and readable system fonts. No external font or image service is required. Original project imagery remains uncropped.
 
-The latest applicant refinement uses integrated contents navigation matching the individual project pages. Home follows introduction → readable skills and research interests → five equally prominent notable projects with multiple PDF figures → three smaller separate collections, where the page ends. About retains background, experience and publication. The project index has the same integrated contents treatment plus search and category filters. Main-project videos sit beside their matching topics, with independent carousels only for topics containing multiple clips.
+The current layout uses integrated contents navigation matching the individual project pages. Home follows introduction → readable skills and research interests → five equally prominent notable projects with multiple PDF figures → three smaller separate collections, where the page ends. About retains background, experience and publication. The project index has the same integrated contents treatment plus search and category filters. Main-project videos sit beside their matching topics, with independent carousels only for topics containing multiple clips.
 
-The applicant's source grouping remains authoritative. The three secondary collections retain their source names and order: Internship / Contract, Competition, Additional / Fun. Completeness comes from substantive content and access to evidence rather than repeating decorative elements.
+The project grouping follows the portfolio source. The three secondary collections retain their source names and order: Internship / Contract, Competition, Additional / Fun. Completeness comes from substantive content and access to evidence rather than repeating decorative elements.

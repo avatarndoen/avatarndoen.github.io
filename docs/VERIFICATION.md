@@ -1,7 +1,26 @@
-# Current verification — uploaded YouTube videos
+# Website validation
 
-October 28, 2026. The website builds and its existing checks pass for 10 pages and 342 local references. Original images and OneDrive destinations remain preserved.
+The site includes build-time checks for linked assets and source records.
 
-All ten supplied video IDs were checked against the generated player data, each occurring in exactly its intended clip. Both Shorts URLs normalize to valid YouTube embed addresses. The CVT optimization player uses fP3Qres5ZQQ; Nusabin carousel switches to the supplied door, final and UX IDs; Surface Modelling uses Nissan GTR and MG MGA IDs in their matching positions. F-16 retains its original source because no new URL was provided.
+## Run checks
 
-Browser checks confirmed the real YouTube iframe and poster loaded, including the MG MGA player, and that carousel selections update the iframe source. Continuous playback of every upload was not tested. Uploaded clips show a Watch on YouTube link; clips without an uploaded URL continue using their original OneDrive destination. No media download, upload, publication or source-video edit was performed.
+```sh
+node scripts/build.mjs
+node scripts/check.mjs
+```
+
+The check script validates the generated page inventory, local asset references, image metadata and integrity records, original video links, YouTube embed handling, and the checksums recorded for the downloadable PDFs.
+
+The image integrity manifest is [`WORD IMAGE UPGRADES.json`](WORD%20IMAGE%20UPGRADES.json), and the download manifest is [`DOWNLOADS.json`](DOWNLOADS.json). Keep both in sync when replacing assets.
+
+## Manual review
+
+Automated validation does not verify the meaning of project claims or the visual quality of every device or browser. Before publishing, review:
+
+- Desktop and mobile layout, including navigation and long project pages.
+- Figure rendering and alternative text.
+- Video selection and external playback links.
+- PDF download links.
+- Technical descriptions, experimental observations, and clearly identified future work.
+
+The live site should be checked after GitHub Pages deploys the updated files.

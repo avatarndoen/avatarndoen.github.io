@@ -1,35 +1,58 @@
-# Avatar Ndoen — Engineering Portfolio
+# Engineering Portfolio — Avatar Sargamantha Ndoen
 
-Editable portfolio website for Avatar Sargamantha Ndoen.
+Mechanical engineering · Robotics · Mechanism design · Computational optimization
 
-## Preview locally
+**Website:** https://avatarndoen.github.io/  
+**Project portfolio:** https://avatarndoen.github.io/portfolio.html
 
-Install Node.js 20 or newer, then run:
+This repository contains the editable content and published pages for my engineering portfolio. The project pages document mechanical design decisions, prototypes, modeling, experimental testing, and selected demonstrations.
+
+## Selected projects
+
+| Project | Focus |
+| --- | --- |
+| [Compliant Prosthetic Wrist](https://avatarndoen.github.io/projects/wrist.html) | User-specific compliant mechanism design and simulation-driven optimization |
+| [Teleoperated Robotic Arm](https://avatarndoen.github.io/projects/arm.html) | BLDC–cycloidal actuators, transmission design, and master–slave teleoperation |
+| [Beltless Gear CVT](https://avatarndoen.github.io/projects/cvt.html) | Mechanism development and computational optimization |
+| [Tendon-Driven Continuum Robot](https://avatarndoen.github.io/projects/continuum.html) | Tendon routing, bending behavior, and model-based motion testing |
+| [Compliant Robotic Hand](https://avatarndoen.github.io/projects/hand.html) | 15-DoF tendon-driven finger actuation |
+
+## Repository structure
+
+- `MAIN.md`, `ABOUT.md`, and `profile/` — site introduction, background, and experience.
+- `projects/` — project text, figures, video records, and additional links.
+- `collections/` — other engineering and personal projects.
+- `DESIGN.md` and `site/` — layout and visual styling.
+- `scripts/` — static-site generation, local preview, and validation.
+- `downloads/` — downloadable CV and portfolio PDF.
+- Root `.html`, `.css`, and `.js` files — generated pages and assets served by GitHub Pages.
+
+## Local preview and validation
+
+Requires **Node.js 20 or later**. No npm dependencies need to be installed.
 
 ```sh
 node scripts/serve.mjs
 ```
 
-On Windows, double-click START WEBSITE.cmd.
-
-## Edit content
-
-- MAIN.md: Home and project groups.
-- ABOUT.md and profile/: profile and skills.
-- projects/: project text, images, and video links.
-- collections/: combined project collections.
-- links/: contact and PDF downloads.
-- DESIGN.md and site/: styling.
-
-## Build
+To create and check a production build:
 
 ```sh
 node scripts/build.mjs
 node scripts/check.mjs
 ```
 
-Generated website files are in dist/. No package installation is needed.
+For content updates, edit the Markdown files and related assets rather than the generated HTML. See the [editing guide](docs/EDITING.md).
 
-## GitHub Pages
+## Publishing
 
-The built website is also included at the repository root. GitHub Pages can serve main / root. To refresh those files after editing, run `node scripts/publish.mjs`, then upload the changes.
+The site is served from the repository's `main` branch at the root. After editing:
+
+```sh
+node scripts/publish.mjs
+node scripts/check.mjs
+```
+
+Review the resulting changes before committing them. See [deployment notes](docs/GITHUB.md) and [verification guidance](docs/VERIFICATION.md).
+
+Project demonstrations are linked or embedded from their original video hosts. Future work is identified separately from completed experiments.
