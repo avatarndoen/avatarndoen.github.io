@@ -17,7 +17,7 @@ secondary_heading: A few more things I’ve made.
 
 ## Introduction
 
-I'm Avatar, a mechanical engineering graduate from Institut Teknologi Bandung. I enjoy designing mechanisms, building robots, and using computational methods to improve their design.
+I enjoy designing mechanisms, building robots, and using computational methods to improve their design.
 
 ## Selected work introduction
 
