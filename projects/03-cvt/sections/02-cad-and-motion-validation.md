@@ -1,5 +1,5 @@
 ---
-title: CAD And Motion Validation
+title: CAD and Motion Validation
 group: 
 images: images/cad-and-motion-validation-figure-1-p5-12.webp, images/beltless-gear-cvt-design-overview-p5-13.webp
 video: 02-cad-and-motion-validation

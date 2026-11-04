@@ -10,7 +10,7 @@ home_images: images/beltless-gear-cvt-portfolio-overview-1-p2-06.webp, images/ph
 role: Self-funded personal project
 tags: Transmissions, Kinematic modeling, Prototyping
 subtitle: 
-note: *I couldn’t test the prototype’s performance at the time because I didn’t have the funds for a motor and encoder.
+note: Performance testing has not yet been completed; the 3D-printed prototype demonstrates the ratio-adjustment mechanism, not measured transmission efficiency or torque ripple.
 ---
 
 Started as a side project to learn machine learning before applying it to my prosthetic-wrist research. Reverse-engineered RatioZero’s beltless CVT through mathematical modeling, geometry optimization, SolidWorks Motion gear-engagement checks, and physical prototyping.
