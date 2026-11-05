@@ -1,11 +1,9 @@
 ---
-title: Dynamic Modeling & Feedforward Control
+title: Dynamic Modeling & Inverse Kinematics
 group:
 images: images/joint-1-physical-model.png, images/joint-2-physical-model.png, images/joint-3-physical-model.png
 figure_layout: three-across
 video: 02-modeling-feedforward-control
 ---
 
-Developed a dynamic model incorporating joint stiffness, tendon forces, and friction to simulate bending behavior and validate the mechanical design. The model was used to calculate servo commands for feedforward control of individual bending DoFs, evaluating motion isolation and parasitic movement.
-
-**Tendon Routing and Mechanical Behavior.** The tendon routing allows each actuator to bend its corresponding section while the other sections largely maintain their bending angles, producing motion similar to a parallel-linkage robotic arm.
+I then needed to determine the tendon displacements required for a desired configuration. I developed a dynamic model to validate the mechanical design and used inverse kinematics to calculate actuator commands for open-loop control. I sent these model-based commands to the physical robot to demonstrate the tendon-routing behavior.

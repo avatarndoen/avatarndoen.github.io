@@ -1,10 +1,10 @@
 ---
 id: continuum
-title: Tendon-Driven Continuum Robot
+title: Underactuated Tendon-Driven Continuum Robot
 order: 4
 collection: selected
 category: Compliant Mechanisms & Tendon Actuation
-summary: Built a continuum robot with alternating compliant joints and six pulling tendons for bending in two perpendicular planes.
+summary: Designed tendon routing for simpler section control, then used a dynamic model and inverse kinematics to generate open-loop motion commands.
 cover: images/tendon-driven-continuum-robot-physical-prototype-p6-02.webp
 home_images: images/tendon-driven-continuum-robot-portfolio-overview-1-p2-14.webp, images/mechanical-design-figure-2-p6-03.webp
 role: Self-funded personal project
@@ -13,4 +13,4 @@ subtitle:
 note: 
 ---
 
-Designed and built a compliant continuum robot with six pulling tendons and three bending DoF in each of two perpendicular planes.
+After building the arm, I wanted to explore flexible manipulation, so I built an underactuated tendon-driven continuum robot. To make its motion easier to control, I designed the tendon routing so each actuator could bend its corresponding section while the others largely maintained their bending angles. I then used modeling and inverse kinematics to turn a desired configuration into actuator commands.

@@ -1,10 +1,10 @@
 ---
 id: wrist
-title: A surrogate-assisted framework for the subject-specific scalable design of compliant prosthetic wrists
+title: Personalized Compliant Prosthetic Wrist
 order: 1
 collection: selected
 category: Automated CAD–CAE & Surrogate-Assisted Optimization
-summary: Developed a two-DoF compliant wrist and an automated design workflow to optimize geometry for user size, motion, and stiffness targets.
+summary: Personalized a compliant wrist through automated CAD–FEA, surrogate modeling, and optimization, then tested a printed prototype.
 cover: images/compliant-prosthetic-wrist-design-overview-p3-04.webp
 home_images: images/compliant-prosthetic-wrist-portfolio-overview-1-p2-03.webp, images/compliant-prosthetic-wrist-design-overview-p3-04.webp, images/experimental-setup-figure-1-p3-16.webp
 role: Undergraduate thesis
@@ -13,4 +13,4 @@ subtitle: Undergraduate Thesis | Published in Scientific Reports, 2026
 note: 
 ---
 
-Developed a two-DoF compliant prosthetic wrist with an automated CAD–CAE and surrogate-assisted optimization workflow to adapt its geometry to different user sizes while meeting motion and stiffness targets.
+For my undergraduate thesis at ITB’s Biomechanics Laboratory, I investigated how a compliant prosthetic wrist could be personalized to different body sizes while maintaining biomimetic motion and stiffness. Working independently with faculty guidance, I brought mechanical design, automated simulation, optimization, and prototype testing together to explore that question.

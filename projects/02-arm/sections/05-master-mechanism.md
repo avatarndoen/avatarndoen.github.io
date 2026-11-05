@@ -5,4 +5,4 @@ images: images/master-mechanism-figure-1-p4-13.webp
 video: 
 ---
 
-Designed a wearable linkage to capture shoulder, elbow, forearm, and wrist motion for teleoperation, with an open-center, two-DoF wrist allowing hand passage.
+I then wanted to control the robot through my own arm movements. I studied my arm’s joint geometry and range of motion to design the controller’s linkages, including an open-center wrist that allowed my hand to pass through. Wearing the rigid controller also made me think about how a device can follow a person’s movement yet become tiring to use over time.

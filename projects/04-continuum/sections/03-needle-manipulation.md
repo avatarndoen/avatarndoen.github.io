@@ -5,6 +5,4 @@ video: 03-needle-manipulation
 video_poster: images/control-motion-testing-figure-1-p6-06.webp
 ---
 
-Demonstrated needle pickup and insertion into a grape using the tendon-driven continuum robot.
-
-The robot was commanded to follow a predefined trajectory. However, tendon slack caused discrepancies between the commanded and actual motion, highlighting the limitations of open-loop control and the need for improved tendon tension management.
+With these commands, I tested predefined trajectories and needle pickup and insertion into a grape. The demonstrations use model-based open-loop commands to explore the mechanism’s motion and manipulation.

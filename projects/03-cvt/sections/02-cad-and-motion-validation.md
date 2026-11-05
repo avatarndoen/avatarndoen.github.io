@@ -5,4 +5,4 @@ images: images/cad-and-motion-validation-figure-1-p5-12.webp, images/beltless-ge
 video: 02-cad-and-motion-validation
 ---
 
-Modeled and developed the CVT assembly in SolidWorks, imported the designed gear profiles, and used contact-driven motion to validate gear meshing.
+Before building the prototype, I needed to check whether the designed gear profiles would engage correctly. I developed the CAD assembly, imported the gear profiles, and used contact-driven motion simulation to validate their engagement.

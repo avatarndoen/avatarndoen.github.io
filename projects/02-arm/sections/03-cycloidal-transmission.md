@@ -5,4 +5,4 @@ images: images/cycloidal-transmission-figure-1-p4-05.webp, images/cycloidal-tran
 video: 
 ---
 
-Designed a cycloidal reducer housed inside the rotor for compact packaging, with a 12:1 ratio to balance torque amplification and backdrivability.
+After analyzing linkage dynamics to estimate the required joint torques, I chose a 12:1 cycloidal transmission to balance torque amplification and backdrivability. I packaged the reducer inside the rotor to keep the actuator compact.

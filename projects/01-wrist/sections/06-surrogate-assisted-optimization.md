@@ -5,4 +5,4 @@ images: images/surrogate-assisted-optimization-figure-1-p3-22.webp
 video: 
 ---
 
-Trained machine-learning surrogates on FEA data and integrated them with U-NSGA-III to optimize range of motion and initial/final stiffness under stress constraints.
+Searching for optimal geometries required more evaluations than I could practically simulate. To address this, I trained machine-learning surrogate models on the FEA results to predict how new designs would perform. I then combined these models with multi-objective optimization to approach the target motion and stiffness while meeting stress limits.

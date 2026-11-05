@@ -11,10 +11,10 @@ This repository contains the editable content and published pages for my enginee
 
 | Project | Focus |
 | --- | --- |
-| [Compliant Prosthetic Wrist](https://avatarndoen.github.io/projects/wrist.html) | User-specific compliant mechanism design and simulation-driven optimization |
-| [Teleoperated Robotic Arm](https://avatarndoen.github.io/projects/arm.html) | BLDC–cycloidal actuators, transmission design, and master–slave teleoperation |
-| [Beltless Gear CVT](https://avatarndoen.github.io/projects/cvt.html) | Mechanism development and computational optimization |
-| [Tendon-Driven Continuum Robot](https://avatarndoen.github.io/projects/continuum.html) | Tendon routing, bending behavior, and model-based motion testing |
+| [Personalized Compliant Prosthetic Wrist](https://avatarndoen.github.io/projects/wrist.html) | User-specific compliant mechanism design and simulation-driven optimization |
+| [Teleoperated Robotic Arm with Custom Actuators](https://avatarndoen.github.io/projects/arm.html) | BLDC–cycloidal actuators, transmission design, and master–slave teleoperation |
+| [Reverse-Engineered Beltless CVT](https://avatarndoen.github.io/projects/cvt.html) | Reverse engineering, kinematic modeling, optimization, and a physical proof of concept |
+| [Underactuated Tendon-Driven Continuum Robot](https://avatarndoen.github.io/projects/continuum.html) | Tendon routing, dynamic modeling, inverse kinematics, and open-loop demonstrations |
 | [Compliant Robotic Hand](https://avatarndoen.github.io/projects/hand.html) | 15-DoF tendon-driven finger actuation |
 
 ## Repository structure
