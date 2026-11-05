@@ -6,4 +6,6 @@ figure_layout: three-across
 video: 02-modeling-feedforward-control
 ---
 
-I then needed to determine the tendon displacements required for a desired configuration. I developed a dynamic model to validate the mechanical design and used inverse kinematics to calculate actuator commands for open-loop control. I sent these model-based commands to the physical robot to demonstrate the tendon-routing behavior.
+Developed a dynamic model to validate the mechanical design. Used inverse kinematics to calculate tendon displacements and actuator commands for model-based open-loop control.
+
+**Tendon Routing and Mechanical Behavior.** The tendon routing allows each actuator to bend its corresponding section while the other sections largely maintain their bending angles, producing motion similar to a parallel-linkage robotic arm.

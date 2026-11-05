@@ -5,4 +5,4 @@ images: images/control-motion-testing-figure-1-p4-10.webp
 video: 01-control-motion-testing
 ---
 
-I used a dial indicator to check backlash and returns to commanded positions. These bench checks showed little backlash and consistent returns, alongside demonstrations of high-speed motor operation.
+Demonstrated high-speed rotation with minimal visible runout. A preliminary dial-indicator return test measured approximately 0.05 mm deviation at a 200 mm radius; more formal testing remains necessary.

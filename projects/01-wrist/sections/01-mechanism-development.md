@@ -5,4 +5,4 @@ images: images/mechanism-development-figure-1-p3-03.webp, images/compliant-prost
 video: 
 ---
 
-To study wrist motion and stiffness through the mechanism itself, I used compliant rolling-contact joints with asymmetric profiles. Stacked modules provide flexion–extension, while an orthogonal module adds radial–ulnar deviation. Changing these profiles let me explore how geometry affected movement in different directions.
+Asymmetric rolling profiles tune directional motion. Two stacked modules provide flexion–extension; an orthogonal module adds radial–ulnar deviation, creating a two-DoF compliant wrist.

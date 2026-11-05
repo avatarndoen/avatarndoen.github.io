@@ -1,7 +1,7 @@
 ---
-alt: Joint 3: prototype bending demonstration alongside the model view
+alt: Joint 3: physical continuum robot and simulated bending configuration
 width: 1206
 height: 1155
 ---
 
-Joint 3: model-based commands and tendon-routing behavior, shown with prototype and model views.
+Prototype and model views for joint 3.

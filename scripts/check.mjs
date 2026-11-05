@@ -56,8 +56,7 @@ assert(!homeHTML.includes('All 16 projects'),'Remove the redundant index button'
 for(const id of ['about','experience','publication','contact'])assert(!homeHTML.includes(`id="${id}"`),`Home must end after the project collections: ${id}`);
 for(const p of data.featured){
   const page=fs.readFileSync(path.join(dist,'projects',p.meta.id+'.html'),'utf8');
-  const captions=[...page.matchAll(/<figcaption[^>]*>(.*?)<\/figcaption>/gs)].map(m=>m[1]);
-  assert.deepEqual(captions,p.meta.id==='continuum'?['Joint 1','Joint 2','Joint 3']:[],'Preserve only the approved continuum joint labels');
+  assert(!page.includes('<figcaption'),'No figure captions on individual project pages');
   assert(page.includes('<aside class="case-toc"><a class="back-link"'),'Portfolio return belongs at the top of contents');
   assert(!page.includes('class="case-cover"'),'Do not repeat the project image in its overview');
   assert(!page.includes('id="demonstrations"'),'Main project videos belong beside their topics');

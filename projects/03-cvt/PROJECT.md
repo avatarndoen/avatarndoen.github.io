@@ -1,16 +1,16 @@
 ---
 id: cvt
-title: Reverse-Engineered Beltless CVT
+title: Computational Optimization of a Beltless Gear CVT
 order: 3
 collection: selected
 category: Mechanism Design & Computational Optimization
-summary: Reverse-engineered RatioZero’s transmission, modeled its behavior, optimized its geometry, and built a working printed proof of concept.
+summary: Reverse-engineered and prototyped RatioZero’s beltless transmission, using computational optimization to refine its geometry.
 cover: images/beltless-gear-cvt-design-overview-p5-13.webp
 home_images: images/beltless-gear-cvt-portfolio-overview-1-p2-06.webp, images/physical-concept-prototype-figure-1-p5-08.webp
 role: Self-funded personal project
 tags: Transmissions, Kinematic modeling, Prototyping
 subtitle: 
-note: The physical prototype demonstrates continuous ratio adjustment; torque-ripple improvement comes from the computational model.
+note: Performance testing has not yet been completed; the 3D-printed prototype demonstrates the ratio-adjustment mechanism, not measured transmission efficiency or torque ripple.
 ---
 
-When I started my thesis, I had no experience with machine learning, so I decided to learn by doing through a separate mechanical design project. I chose to reverse-engineer RatioZero’s beltless continuously variable transmission because I was curious about its unusual mechanism. I used kinematic modeling and surrogate-assisted optimization to improve the design, then checked gear engagement and built a working printed proof of concept.
+Started as a side project to learn machine learning before applying it to my prosthetic-wrist research. Reverse-engineered RatioZero’s beltless CVT through mathematical modeling, geometry optimization, SolidWorks Motion gear-engagement checks, and physical prototyping.

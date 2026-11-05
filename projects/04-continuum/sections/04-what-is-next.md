@@ -5,4 +5,4 @@ images:
 video: 04-future-control-development
 ---
 
-Next, I want to use camera-based configuration estimation for closed-loop control, correcting differences between commanded and actual motion. Adaptive, obstacle-aware control is a further direction I want to explore. These are future extensions of the current open-loop demonstrations.
+Develop a camera-assisted digital twin for closed-loop control, using real-time visual feedback to estimate the robot's configuration and correct deviations between predicted and actual motion. Explore adaptive, obstacle-aware control to adjust the robot's bending configuration toward a desired end-effector pose, or the closest reachable pose when obstacles restrict its movement.

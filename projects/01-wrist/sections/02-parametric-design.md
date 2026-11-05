@@ -5,4 +5,4 @@ images: images/parametric-design-figure-1-p3-11.webp, images/parametric-design-f
 video: 
 ---
 
-To personalize the wrist, I needed to vary its geometry consistently. I parameterized the overall size, rolling profiles, and flexure dimensions in a master sketch so I could generate and compare different designs automatically.
+Parameterized wrist size, rolling profiles, and flexure dimensions through 21 geometric variables in a master sketch, enabling automated design variation.

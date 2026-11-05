@@ -5,4 +5,4 @@ images: images/tendon-driven-continuum-robot-physical-prototype-p6-02.webp, imag
 video: 01-mechanical-design
 ---
 
-To make motion control easier, I routed the tendons so each actuator could bend its corresponding section while the other sections largely maintained their bending angles, producing motion similar to a parallel-linkage robotic arm. Alternating compliant joints, passive segments, and tendon attachments enable bending in two perpendicular planes, with a compliant gripper for manipulation.
+Alternating compliant joints, passive segments, and tendon attachments enable bending in two perpendicular planes, with a compliant gripper for object manipulation.
