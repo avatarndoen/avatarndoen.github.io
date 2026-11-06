@@ -636,15 +636,17 @@ function updateActiveToc(){
  const view=document.querySelector('.view.active');if(!view)return;
  const links=tocLinks.filter(a=>a.closest('.view')===view);
  if(!links.length)return;
- const cutoff=Math.min(window.innerHeight*.38,380);
+ const cutoff=navHeight()+24;
  let selected=links[0];
  for(const link of links){const el=document.getElementById(link.dataset.target);if(el&&el.getBoundingClientRect().top<=cutoff)selected=link;}
+ const journey=view.querySelector('.journey-story');
+ if(journey){const box=journey.getBoundingClientRect();if(box.top<=cutoff&&box.bottom>cutoff){const city=view.querySelector('[data-journey-stage].current');const cityLink=city&&links.find(a=>a.dataset.target===city.id);if(cityLink)selected=cityLink;}}
  for(const link of links){const active=link===selected;const parentActive=!!(selected.dataset.tocParent && link.dataset.tocGroup===selected.dataset.tocParent);link.classList.toggle('is-current',active);link.classList.toggle('is-parent-current',parentActive);if(active)link.setAttribute('aria-current','location');else link.removeAttribute('aria-current');}
  const toc=selected.closest('.case-nav,.simple-sidebar,.about-section-nav');const summary=toc?.querySelector('.toc-summary-text');if(summary)summary.textContent=selected.textContent.trim();
  if(selected!==updateActiveToc.prev){scrollTocLink(selected);updateActiveToc.prev=selected;}
 }
 let tracking=false;
-window.addEventListener('scroll',()=>{if(!tracking){tracking=true;requestAnimationFrame(()=>{updateActiveToc();updateJourney();tracking=false;});}},{passive:true});
+window.addEventListener('scroll',()=>{if(!tracking){tracking=true;requestAnimationFrame(()=>{updateJourney();updateActiveToc();tracking=false;});}},{passive:true});
 window.addEventListener('resize',()=>{updateActiveToc();updateJourney();},{passive:true});
 tocLinks.forEach(link=>link.addEventListener('click',e=>{
  e.preventDefault();const id=link.dataset.target;const dest=document.getElementById(id);if(!dest)return;
@@ -652,10 +654,12 @@ tocLinks.forEach(link=>link.addEventListener('click',e=>{
  const slug=id.startsWith(v+'-')?id.slice(v.length+1):id;
  history.replaceState(null,'','#'+v+':'+slug);
  const details=link.closest('details.toc-details');if(details&&window.innerWidth<=1000)details.open=false;
- const top=window.scrollY+dest.getBoundingClientRect().top-navHeight();
+ let top=window.scrollY+dest.getBoundingClientRect().top-navHeight();
+ if(dest.hasAttribute('data-journey-stage')){const map=viewMap();const box=dest.getBoundingClientRect();const bottom=(parseFloat(getComputedStyle(map).top)||0)+map.getBoundingClientRect().height;const focal=innerWidth<=900?Math.min(innerHeight-75,Math.max(innerHeight*.56,(bottom+innerHeight)*.5)):innerHeight*.55;top=window.scrollY+box.top+box.height/2-focal;}
  window.scrollTo({top:Math.max(0,top),behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
- updateActiveToc();
+ updateJourney();updateActiveToc();
 }));
+function viewMap(){return document.querySelector('.view.active .journey-route');}
 // Original-style scroll-linked Natural Earth map: smooth geographic camera tracking.
 let mapDrawLengths=null;
 function updateJourney(){
